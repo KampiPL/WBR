@@ -1,11 +1,14 @@
-version="0.3"
+version="1.0"
 tags={
-	"Sound"
+	"Alternative History"
 	"Events"
+	"Gameplay"
+	"National Focuses"
+	"Map"
 }
-dependencies = {
+dependencies={
 	"Novum Vexillum"
 }
-picture="thumbnail.png"
-name="Nasz Mod"
-supported_version="1.11.11"
+name="Wzlot Białego Orła"
+supported_version="1.11.13"
+remote_file_id="2854390553"
