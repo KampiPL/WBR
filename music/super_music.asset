@@ -1,0 +1,14 @@
+music = {
+	name = "super_pol_cw"
+	file = "rota.ogg"
+}
+
+music = {
+	name = "super_pol_pw"
+	file = "kaczor.ogg"
+}
+
+music = {
+	name = "super_pol_pod_niczego"
+	file = "nie_bedzie_niczego.ogg"
+}
