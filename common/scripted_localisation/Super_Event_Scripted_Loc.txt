@@ -1,0 +1,77 @@
+#Titles
+defined_text = {
+    name = get_super_event_title
+	
+    text = {
+        trigger = {
+            has_global_flag = POL_CW
+        }
+        localization_key = "sp_event_polish_civil_war"
+    }
+	
+	text = {
+        trigger = {
+            has_global_flag = POL_PW
+        }
+        localization_key = "sp_event_polish_pis_won"
+    }
+	
+	text = {
+        trigger = {
+            has_global_flag = POL_POD_NICZEGO
+        }
+        localization_key = "sp_event_polish_pod_nie_ma_niczego"
+    }
+}
+
+#Remarks
+defined_text = {
+    name = get_super_event_remark
+    
+    text = { 
+        trigger = {
+            has_global_flag = POL_CW
+        }
+        localization_key = "sp_event_polish_civil_war_REMARK"
+    }
+	
+	text = { 
+        trigger = {
+            has_global_flag = POL_PW
+        }
+        localization_key = "sp_event_polish_pis_won_REMARK"
+    }
+	
+	text = { 
+        trigger = {
+            has_global_flag = POL_POD_NICZEGO
+        }
+        localization_key = "sp_event_polish_pod_nie_ma_niczego_REMARK"
+    }
+}
+
+#Quotes
+defined_text = {
+    name = get_super_event_quote
+    
+    text = {
+        trigger = {
+            has_global_flag = POL_CW
+        }
+        localization_key = "sp_event_polish_civil_war_QUOTE"
+    }
+	
+	text = {
+        trigger = {
+            has_global_flag = POL_PW
+        }
+        localization_key = "sp_event_polish_pis_won_QUOTE"
+    }
+	
+	text = {
+        trigger = {
+            has_global_flag = POL_POD_NICZEGO
+        }
+        localization_key = "sp_event_polish_pod_nie_ma_niczego_QUOTE"
+    }
+}
